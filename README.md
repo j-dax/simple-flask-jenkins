@@ -4,11 +4,11 @@ This is a simple Flask application built with Jenkins on a linux server with the
 
 # Prerequisites
 
-(Jenkins)[https://www.jenkins.io/doc/book/installing]
+[Jenkins](https://www.jenkins.io/doc/book/installing)
 
-(Python3)[https://www.python.org/downloads/]
+[Python3](https://www.python.org/downloads/)
 
-(NGinx)[https://www.nginx.com/resources/wiki/start/topics/tutorials/install/]
+[NGinx](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 # Procedure
 
