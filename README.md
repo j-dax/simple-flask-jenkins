@@ -38,3 +38,9 @@ Log into Jenkins and install the following plugins:
 * Ensure it's pointing at the correct branch
 * Hit save
 
+## Manual Build
+
+You're now ready to start a manual build on Jenkins.
+
+Navigate to your project and hit `Build Now`
+
