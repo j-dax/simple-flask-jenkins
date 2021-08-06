@@ -24,6 +24,7 @@ unlink /etc/nginx/sites-enabled/default
 Log into Jenkins and install the following plugins:
 
 > GitHub
+> 
 > Pipeline
 
 ## New Item
