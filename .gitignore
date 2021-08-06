@@ -1,2 +1,7 @@
 Pipfile*
 *.log
+bin/
+jenkins.io.key
+lib/
+lib64
+pyvenv.cfg
